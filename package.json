@@ -1,0 +1,22 @@
+{
+  "name": "deckgl-rendering-of-bike-availability-across-tel-aviv",
+  "version": "1.0.0",
+  "description": "https://deck.gl/#/documentation/deckgl-api-reference/layers/screen-grid-layer implemented with live data from the city of Tel Aviv",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "deck.gl": "6.3.3",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-map-gl": "4.0.6",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
